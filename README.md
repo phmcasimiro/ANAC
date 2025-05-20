@@ -5,6 +5,6 @@ https://dados.gov.br/dados/conjuntos-dados/ocorrencias-aeronauticas-da-aviacao-c
 
 Próximos Passos:
 
-1 - Arquivo ProjetoAnac_EngDados.ipynb --> Fazer o Passo 10
+1 - Criar um procedimento de carga/atualização automático dos dados
 
-2 - Arquivo ProjetoAnac_Geo.ipynb --> Fazer o Passo 11git push
+2 - Criar e automatizar o processo de obtenção da Geom na tabela do banco de dados
