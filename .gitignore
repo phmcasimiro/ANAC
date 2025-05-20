@@ -1,0 +1,12 @@
+# Ignorar a virtual environment
+venv/
+
+# Ignorar arquivos de bytecode Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos específicos do VS Code (opcional)
+.vscode/
+
+# Ignorar arquivos de ambiente (se você usar algum, como .env)
+.env
